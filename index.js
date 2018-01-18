@@ -26,10 +26,10 @@ function sayHiToGrandma(string){
 sayHiToGrandma('hello');
 
   function sayHiToGrandma(string){
-    if (string === 'I love you, too.');
+    if (string === string.toUpperCase());
     return 'YES INDEED!';
 }
-sayHiToGrandma('I love you, too.');
+sayHiToGrandma('HELLO');
 
 function sayHiToGrandma(string){
   if (string === "I love you, Grandma.");
