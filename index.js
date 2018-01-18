@@ -27,12 +27,12 @@ sayHiToGrandma('hello');
 
   function sayHiToGrandma(string){
     if (string === string.uppercase());
-    return string "YES INDEED!";
+    return string.toEqual "YES INDEED!";
 }
 sayHiToGrandma('HELLO');
 
 function sayHiToGrandma(string){
   if (string === "I love you, Grandma.");
-  return string,  "I love you, too.";
+  return string.toEqual  "I love you, too.";
 }
 sayHiToGrandma("I love you, Grandma.");
