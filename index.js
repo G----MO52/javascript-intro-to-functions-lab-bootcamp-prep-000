@@ -27,7 +27,7 @@ sayHiToGrandma('hello');
 
   function sayHiToGrandma(string){
     if (string === 'HELLO');
-    return 'I love you,too.';
+    return 'YES INDEED';
 }
 sayHiToGrandma('HELLO');
 
@@ -36,3 +36,4 @@ function sayHiToGrandma(string){
   return "I love you, too.";
 }
 sayHiToGrandma("I love you, Grandma");
+
