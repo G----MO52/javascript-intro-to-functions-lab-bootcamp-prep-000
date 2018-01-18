@@ -26,13 +26,13 @@ function sayHiToGrandma(string){
 sayHiToGrandma('hello');
 
   function sayHiToGrandma(string){
-    if (string === 'I love you, too.');
+    if (string === 'HELLO');
     return 'YES INDEED!';
 }
-sayHiToGrandma('I love you, too.');
+sayHiToGrandma('HELLO');
 
 function sayHiToGrandma(string){
   if (string === "I love you, Grandma.");
-  return "YES INDEED! I love you, too.";
+  return "YES INDEED! I love you, too.";  
 }
 sayHiToGrandma("I love you, Grandma")
